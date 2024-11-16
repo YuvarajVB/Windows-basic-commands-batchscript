@@ -9,8 +9,8 @@ To execute Windows basic commands and batch scripting
 
 # WINDOWS COMMANDS:
 ```
-NAME:Samakash R S
-REG.NO:212223230182
+NAME: YUVARAJ V
+REG.NO:212223230252
 ```
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "MyLab" on the desktop.
